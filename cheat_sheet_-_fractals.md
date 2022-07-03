@@ -2,7 +2,7 @@ cheat sheet for Guild Wars 2 Fractals based on the video by Mukluk:
 https://youtu.be/rAdgTpLf7mc
 
 
-# Molten Furnace
+# Molten Furnace (22)
 ### 1. follow the drill machine
 1. whenever you hit the "water walls" in the tunnel take the side passage and
    destroy the vents to remove the water wall
@@ -20,7 +20,7 @@ https://youtu.be/rAdgTpLf7mc
 6. boss reveals himself at the end
     * he will occasionally teleport around the room
 
-# Aetherblade
+# Aetherblade (14)
 ### 1. swim past the mines and kill some mobs
 ### 2. get through the blinky floor tiles
 1. they one hit kill you
@@ -35,7 +35,7 @@ https://youtu.be/rAdgTpLf7mc
     * you can jump over the boxes to jump over a lower beam
 
 
-# Solid Ocean
+# Solid Ocean (20)
 ### 1. run past the entire fractal
 ### 2. final boss
 1. kill the jellyfishes
@@ -50,7 +50,7 @@ https://youtu.be/rAdgTpLf7mc
    easy to reach and move them to the place where your group is
 
 
-# Nightmare
+# Nightmare (23)
 ### 1. kill mobs until you reach the first boss
 ### 2. first boss
 1. red circles are bad (as usual)
@@ -90,7 +90,7 @@ https://youtu.be/rAdgTpLf7mc
     2. dodge the mobs
 
 
-# Volcanic
+# Volcanic (1)
 ### 1. room ambushed from all sides
 * go up the ramp
 ### 2. don't get squished by the balls
@@ -116,7 +116,7 @@ https://youtu.be/rAdgTpLf7mc
     * adds root you --> you burn cause you can't move
 
 
-# Uncategorized
+# Uncategorized (2)
 ### 1. jump up the platforms
 1. kill around past the mobs
 ### 2. first fight
@@ -143,7 +143,7 @@ https://youtu.be/rAdgTpLf7mc
     2. guardian bubbles to stop the bullets
 
 
-# Snowblind
+# Snowblind (3)
 ### 1. bonfire
 1. use special action button to light the fire
    (hotkey the special action button if you haven't done that already)
