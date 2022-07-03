@@ -75,13 +75,39 @@ https://youtu.be/rAdgTpLf7mc
 * Blish HUD might help ^^
 1. run south east from the ice boss
 2. the path curves east then north
-3. run torwards the red map marker
+3. run towards the red map marker
 4. skip all the mobs
     * they're a waste of time
 ### 4. final boss
 1. dodge the circles!
     * if you fail to doge, you get frozen solid
     * teammates have to break the ice to free you
+
+
+# Urban Battleground (4)
+### 1. first boss
+1. most groups run straight to the boss and kill all 50 mobs at once and die
+    * hug the right wall an kill mobs in small packs
+2. watch out for the lava buckets above the boss
+3. kill anything other than the the boss first
+    * to reduce the damage
+4. kill the boss last
+4. destroy the door after you've killed the boss
+### 2. way to the final boss room
+1. the path changes every day
+2. look for the path that doesn't have sandbags to prevent passage
+### 3. final boss room
+1. hide from the siege machines behind the nearest statue or tree
+2. pull over the humanoids and kill them
+3. once you've killed the humanoids go in the middle and destroy the machines
+4. waves of enemies come from each door starting at the north and going
+   clockwise
+5. the boss cums after the spirit bomb goes off
+    * move out of the meteor rain from the boss if it hurts too much
+    * boss summons adds
+    * biggest attack does damage in a line
+        * don't stand behind an ally
+
 
 # Aetherblade (14)
 ### 1. swim past the mines and kill some mobs
@@ -93,7 +119,7 @@ https://youtu.be/rAdgTpLf7mc
 ### 4. use the teleporter to reach the next room
 ### 5. survive
 1. the doors will open after you've killed most of the mobs
-### 7. talk to npc to teleport to the boss room
+### 7. talk to NPC to teleport to the boss room
 1. kill all the mobs while dodging the laser
     * you can jump over the boxes to jump over a lower beam
 
