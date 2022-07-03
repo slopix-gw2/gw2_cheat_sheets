@@ -46,8 +46,8 @@ https://youtu.be/rAdgTpLf7mc
         2. pick up the crystal on the ground when you get a red skull marker
            over your head
         3. after you get blasted, target the boss and press the 1 key
-    3. when things are calm, pick up the crystal on the ground that are not
-       easy to reach and move them to the place where your group is
+3. when things are calm, pick up the crystal on the ground that are not
+   easy to reach and move them to the place where your group is
 
 
 # Nightmare
@@ -74,6 +74,7 @@ https://youtu.be/rAdgTpLf7mc
 2. interrupt him when he starts his channel
 3. red areas and green slime pools are bad
 ### 7. take the teleporter to the final boss
+### 8. final boss
 1. click orb to start
 2. stand in shields
 3. interrupt break bars
@@ -101,18 +102,18 @@ https://youtu.be/rAdgTpLf7mc
 3. stand under the throne
     * he comes down if everybody does that
       (because he looses line of sight)
-4. most groups take a shortcut through the lava
-    * unlock the checkpoint if one person makes it across
-    * /gg
-5. boss on the island
-    1. stay moving
-        * if not, you burn
-    2. hit boss & interrupt brakebars
-    3. boss gets shield bubble
-        * hit him a number of times to break the bubble
-        * interrupt him right afterwords
-    4. also kill the adds
-        * adds root you --> you burn cause you can't move
+### 4. most groups take a shortcut through the lava
+* unlock the checkpoint if one person makes it across
+* /gg
+### 5. boss on the island
+1. stay moving
+    * if not, you burn
+2. hit boss & interrupt brakebars
+3. boss gets shield bubble
+    * hit him a number of times to break the bubble
+    * interrupt him right afterwords
+4. also kill the adds
+    * adds root you --> you burn cause you can't move
 
 
 # Uncategorized
