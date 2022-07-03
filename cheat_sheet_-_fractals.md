@@ -2,94 +2,6 @@ cheat sheet for Guild Wars 2 Fractals based on the video by Mukluk:
 https://youtu.be/rAdgTpLf7mc
 
 
-# Molten Furnace (22)
-### 1. follow the drill machine
-1. whenever you hit the "water walls" in the tunnel take the side passage and
-   destroy the vents to remove the water wall
-### 2. end of the tunnel
-1. fight mobs
-2. wait on the water wall till it vanishes
-### 3. cross the lava or go around it
-### 4. final boss
-1. dodge the red circles
-2. kill the mobs
-3. hit the metal thingy in the middle whenever possible 
-4. jump over the shock waves
-5. evade the fire tornadoes
-    * constantly turn your camera to watch them
-6. boss reveals himself at the end
-    * he will occasionally teleport around the room
-
-# Aetherblade (14)
-### 1. swim past the mines and kill some mobs
-### 2. get through the blinky floor tiles
-1. they one hit kill you
-2. button at the end to turn them off
-### 3. get up to the "disco"
-1. get to the control panel with the red gear symbol above it and turn it off
-### 4. use the teleporter to reach the next room
-### 5. survive
-1. the doors will open after you've killed most of the mobs
-### 7. talk to npc to teleport to the boss room
-1. kill all the mobs while dodging the laser
-    * you can jump over the boxes to jump over a lower beam
-
-
-# Solid Ocean (20)
-### 1. run past the entire fractal
-### 2. final boss
-1. kill the jellyfishes
-2. two ways to damage the boss:
-    1. killing a tentacle
-    2. reflecting his eye beam back at him
-        1. kill the green crystal constructs
-        2. pick up the crystal on the ground when you get a red skull marker
-           over your head
-        3. after you get blasted, target the boss and press the 1 key
-3. when things are calm, pick up the crystal on the ground that are not
-   easy to reach and move them to the place where your group is
-
-
-# Nightmare (23)
-### 1. kill mobs until you reach the first boss
-### 2. first boss
-1. red circles are bad (as usual)
-2. get into the shield when you see it
-3. interrupt when you see break bar
-### 3. kill mobs
-### 4. dodge ball circles
-1. stay in the circles while evading the orbs until they disappear
-2. blue orbs
-    * massive heal
-    * remove agony
-    * it's worth getting hit by some red orbs if it also means getting
-      heat by a blue orb
-3. final three circles
-    1. do the two on the high grounds
-    2. do the one in the middle
-### 5. run up the ramp
-1. once someone gets up the ramp the attacks cease
-### 6. snake boss
-1. step into the room, back out, and wait for the snake to spawn
-2. interrupt him when he starts his channel
-3. red areas and green slime pools are bad
-### 7. take the teleporter to the final boss
-### 8. final boss
-1. click orb to start
-2. stand in shields
-3. interrupt break bars
-4. red areas are bad
-5. dodge ball
-    1. twice during the fight
-    2. 5 circles: one for each player
-    3. if somebody dies:
-        * the whole group gets resurrected if one player survives
-          this phase
-6. acid trip at around 13 %
-    1. top down camera angle to see the arrows on the ground
-    2. dodge the mobs
-
-
 # Volcanic (1)
 ### 1. room ambushed from all sides
 * go up the ramp
@@ -170,3 +82,91 @@ https://youtu.be/rAdgTpLf7mc
 1. dodge the circles!
     * if you fail to doge, you get frozen solid
     * teammates have to break the ice to free you
+
+# Aetherblade (14)
+### 1. swim past the mines and kill some mobs
+### 2. get through the blinky floor tiles
+1. they one hit kill you
+2. button at the end to turn them off
+### 3. get up to the "disco"
+1. get to the control panel with the red gear symbol above it and turn it off
+### 4. use the teleporter to reach the next room
+### 5. survive
+1. the doors will open after you've killed most of the mobs
+### 7. talk to npc to teleport to the boss room
+1. kill all the mobs while dodging the laser
+    * you can jump over the boxes to jump over a lower beam
+
+
+# Solid Ocean (20)
+### 1. run past the entire fractal
+### 2. final boss
+1. kill the jellyfishes
+2. two ways to damage the boss:
+    1. killing a tentacle
+    2. reflecting his eye beam back at him
+        1. kill the green crystal constructs
+        2. pick up the crystal on the ground when you get a red skull marker
+           over your head
+        3. after you get blasted, target the boss and press the 1 key
+3. when things are calm, pick up the crystal on the ground that are not
+   easy to reach and move them to the place where your group is
+
+
+# Molten Furnace (22)
+### 1. follow the drill machine
+1. whenever you hit the "water walls" in the tunnel take the side passage and
+   destroy the vents to remove the water wall
+### 2. end of the tunnel
+1. fight mobs
+2. wait on the water wall till it vanishes
+### 3. cross the lava or go around it
+### 4. final boss
+1. dodge the red circles
+2. kill the mobs
+3. hit the metal thingy in the middle whenever possible 
+4. jump over the shock waves
+5. evade the fire tornadoes
+    * constantly turn your camera to watch them
+6. boss reveals himself at the end
+    * he will occasionally teleport around the room
+
+# Nightmare (23)
+### 1. kill mobs until you reach the first boss
+### 2. first boss
+1. red circles are bad (as usual)
+2. get into the shield when you see it
+3. interrupt when you see break bar
+### 3. kill mobs
+### 4. dodge ball circles
+1. stay in the circles while evading the orbs until they disappear
+2. blue orbs
+    * massive heal
+    * remove agony
+    * it's worth getting hit by some red orbs if it also means getting
+      heat by a blue orb
+3. final three circles
+    1. do the two on the high grounds
+    2. do the one in the middle
+### 5. run up the ramp
+1. once someone gets up the ramp the attacks cease
+### 6. snake boss
+1. step into the room, back out, and wait for the snake to spawn
+2. interrupt him when he starts his channel
+3. red areas and green slime pools are bad
+### 7. take the teleporter to the final boss
+### 8. final boss
+1. click orb to start
+2. stand in shields
+3. interrupt break bars
+4. red areas are bad
+5. dodge ball
+    1. twice during the fight
+    2. 5 circles: one for each player
+    3. if somebody dies:
+        * the whole group gets resurrected if one player survives
+          this phase
+6. acid trip at around 13 %
+    1. top down camera angle to see the arrows on the ground
+    2. dodge the mobs
+
