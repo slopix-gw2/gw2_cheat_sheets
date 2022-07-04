@@ -23,7 +23,7 @@ https://youtu.be/rAdgTpLf7mc
 2. hit boss & interrupt brake bars
 3. boss gets shield bubble
     * hit him a number of times to break the bubble
-    * interrupt him right afterwords
+    * interrupt him right afterwards afterwards 
 4. also kill the adds
     * adds root you --> you burn cause you can't move
 
@@ -67,7 +67,7 @@ https://youtu.be/rAdgTpLf7mc
     * weakens the boss
 2. kill the elemental
 3. Boss tries to put out the fires
-    * shield them or relight them afterwords
+    * shield them or relight them afterwards
 4. snowstorm if all bonfires go out at the same time
     * makes it hard to see for a few seconds
     * teleports you randomly
