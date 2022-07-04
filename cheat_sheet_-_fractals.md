@@ -153,12 +153,13 @@ https://youtu.be/rAdgTpLf7mc
 ### 2. go to the middle and kill the red skull guy
 ### 3. go south (the door will open)
 1. use a safety shield to block if you want
-2. someone needs to stand at 1 and 2 on the mini-map and press the console
-   buttons simultaneously
-3. a third person stands at 3 and presses all three consoles via standing in
+2. someone needs to stand at 1 and 2 on the mini-map
+    * button 1 removes the shield of the second button
+    * button 2 removes the shield for the console at 3
+3. a third person stands at 3 and presses all buttons via standing in
    the middle
     * after pressing the first console you will be routed but if you stand
-       right in the middle you can hit all three without moving
+       right in the middle you can hit all without moving
 4. this rooms shuts down
 5. grab the coolant rod when you leave
 ### 4. go east
