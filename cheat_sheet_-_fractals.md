@@ -20,7 +20,7 @@ https://youtu.be/rAdgTpLf7mc
 ### 5. boss on the island
 1. stay moving
     * if not, you burn
-2. hit boss & interrupt brakebars
+2. hit boss & interrupt brake bars
 3. boss gets shield bubble
     * hit him a number of times to break the bubble
     * interrupt him right afterwords
@@ -109,6 +109,30 @@ https://youtu.be/rAdgTpLf7mc
         * don't stand behind an ally
 
 
+# Chaos (13)
+### 1. way to first boss
+1. kill the first group
+2. go down the ramp
+3. jump up the puzzle
+    * most people skip the robots
+### 2. first boss
+1. kill the adds if he gets invulnerable
+### 3. way to the final boss
+1. run past the mobs
+2. light the fires with the special action key
+    * the locations of the fires are on the mini-map
+3. the wall melts
+### 4. final boss
+1. the attacks of the boss consists of 3 swings
+    * the third swing is an area of effect daze --> step back from that
+2. the boss can get an invulnerability shield
+    * drag him over the pink damaging tiles to get rid of it
+3. when the boss gets an interrupt bar either interrupt him or get out of the
+   circle
+3. adds
+    * either ignore or kill them
+
+
 # Aetherblade (14)
 ### 1. swim past the mines and kill some mobs
 ### 2. get through the blinky floor tiles
@@ -195,4 +219,3 @@ https://youtu.be/rAdgTpLf7mc
 6. acid trip at around 13 %
     1. top down camera angle to see the arrows on the ground
     2. dodge the mobs
-
