@@ -148,6 +148,46 @@ https://youtu.be/rAdgTpLf7mc
     * you can jump over the boxes to jump over a lower beam
 
 
+# Thaumanova Reactor (15)
+### 1. detonate the wall
+### 2. go to the middle and kill the red skull guy
+### 3. go south (the door will open)
+1. use a safety shield to block if you want
+2. someone needs to stand at 1 and 2 on the mini-map and press the console
+   buttons simultaneously
+3. a third person stands at 3 and presses all three consoles via standing in
+   the middle
+    * after pressing the first console you will be routed but if you stand
+       right in the middle you can hit all three without moving
+4. this rooms shuts down
+5. grab the coolant rod when you leave
+### 4. go east
+1. kill everything here with a hit point bar
+2. interact with the control panel
+3. grab the coolant rod when you leave
+### 5. go northeast
+1. green slimes heal the boss --> kill them
+2. when he turns into a shield --> don't attack him
+    * if you keep attacking, he explodes and everybody dies :3
+3. press the console after you've killed the boss
+4. grab the coolant rod when you leave
+### 6. go west
+1. it hurts when you step in
+2. holding down the 1 key speeds you up
+3. plug in the three rods at the map markers
+4. at the end, hit all three console buttons
+    * you can do it with one person if you stand in the middle
+### 7. final boss
+1. the special action key stops the floor from falling out from under you
+    * tiles begin to glow before they disappear
+2. the beam from the boss makes you destroy tiles
+    * don't move run around like maniac and destroy the entire room
+    * move every 2 to 3 seconds
+    * move away from the boss
+    * melees can't attack if you destroy all the tiles around him
+    * the tiles come back slowly
+
+
 # Solid Ocean (20)
 ### 1. run past the entire fractal
 ### 2. final boss
