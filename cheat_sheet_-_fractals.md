@@ -1,5 +1,30 @@
-cheat sheet for Guild Wars 2 Fractals based on the video by Mukluk:
-https://youtu.be/rAdgTpLf7mc
+cheat sheet for Guild Wars 2 Tier 1 Fractals based the video 
+https://youtu.be/rAdgTpLf7mc by Mukluk and the videos by CommonTate Guides
+(https://www.youtube.com/c/CommonTate).
+
+
+# Fractals on this cheat sheet
+    [x] Volcanic (1) (19)
+    [x] Uncategorized (2)
+    [x] Snowblind (3)
+    [x] Urban Battleground (4)
+    [ ] Swampland (5) (17)
+    [ ] Cliffside (6) (21)
+    [ ] Aquatic Ruins (7)
+    [ ] Underground Facility (8)
+    [x] Molten Furnace (9) (22)
+    [ ] Molten Boss (10)
+    [x] Deepstone (11)
+    [x] Siren's Reef (12)
+    [x] Chaos (13)
+    [x] Aetherblade (14)
+    [x] Thaumanova Reactor (15)
+    [ ] Twilight Oasis (16)
+    [ ] Captain Mai Trin Boss (18)
+    [x] Solid Ocean (20)
+    [x] Nightmare (23)
+    [x] Shattered Observatory (24)
+    [ ] Sunqua Peak (25)
 
 
 # Volcanic (1)
@@ -109,6 +134,107 @@ https://youtu.be/rAdgTpLf7mc
         * don't stand behind an ally
 
 
+# Molten Furnace (9) (22)
+### 1. follow the drill machine
+1. whenever you hit the "water walls" in the tunnel take the side passage and
+   destroy the vents to remove the water wall
+### 2. end of the tunnel
+1. fight mobs
+2. wait on the water wall till it vanishes
+### 3. cross the lava or go around it
+### 4. final boss
+1. dodge the red circles
+2. kill the mobs
+3. hit the metal thingy in the middle whenever possible 
+4. jump over the shock waves
+5. evade the fire tornadoes
+    * constantly turn your camera to watch them
+6. boss reveals himself at the end
+    * he will occasionally teleport around the room
+
+
+# Deepstone (11)
+### 1. drop down and choose left or right (it doesn't matter) [here: left path]
+### 2. puzzle
+* Puzzle can be deactivated by two people standing on the buttons at the
+  end of the puzzle.
+### 3. electric spider
+1. red circles = bad
+2. embroidered red circle = super bad, dodge at all costs!
+    * picks you up and drops you off the cliff
+    * you can help an ally in the air via interrupting the tornado
+3. kill spider, pick up the shiny ball, give the ball to the crystal
+### 4. take the other path [here: right path]
+1. don't get pushed off by the wind
+2. stand on the two buttons
+    * turns of the winds
+    * opens the door
+2. kill the spiders
+3. kill the giant spider
+4. pick up the ball and give it to the rock
+### 5. invisible Shadow Minotaur
+1. special action key to reveal invisible monsters
+    * use it to reveal Shadow Minotaur
+2. kill Shadow Minotaur
+    * you have to use the light to make him vulnerable
+3. go through the middle door
+### 6. way to the final boss
+1. use the light to reveal floor tiles to get across the pit
+2. spectral flames and shades appear
+    * focus on spectral flame because they remove tiles
+2. light up all orbs to open the door
+3. take the elevator and fight the mobs in the elevator
+### 7. final boss
+1. floor that is blinking is about to collapse
+    * you can fix it with the light button (special action key)
+2. boss periodically teleports
+    * follow him
+    * build floor if necessary (with the light)
+3. if boss gets invisible, prioritize spectral flames
+    * they power up his spirit bomb
+    * large AOE attack if too many reach him
+### Note: sparkles around the level = invisible treasure chest
+* use light to reveal it
+
+
+# Siren's Reef (12)
+### 1. kill your way across the beach until you reach the first boss
+### 2. make damage till he runs
+### 3. use cannon to destroy the mines
+### 4. kill the ghosts on the high ground
+### 5. Someone should use the ghost cannon
+1. the others go down to fight the mobs
+    * the mines are pretty deadly --> avoid them
+2. destroy the mines with the cannon
+### 6. small maze
+1. avoid the circles
+    * they spawn adds
+2. you need to carry three bags of cursed gold to the end of the maze
+    * you get slower while carrying them --> throw them around
+3. put the bags into the treasure chest
+4. pick up the treasure chest
+5. leave the maze
+### 7. the ship
+1. place the treasure chest on the ship
+2. 2 people use the 2 cannons, the rest brings back the treasure box
+3. kill Mad Jack Squall
+    * don't let wind push you off the boat
+    * the water is deadly
+4. 2 people use the 2 cannons, the rest brings back the treasure box
+5. kill First Mate Calix
+    * run the red circles to the edge of the boat
+    * the cone dazes you
+6. defend the ship with the 4 cannons
+7. final boss (the captain)
+    * has every mechanic you've seen so far
+        * stack in green circles
+        * run red circles to the edge of the boat
+        * don't let the wind push you into the water
+        * the cone will daze you
+        * don't let the adds build up
+            * focus on the adds first if in trouble
+
+
 # Chaos (13)
 ### 1. way to first boss
 1. kill the first group
@@ -204,24 +330,6 @@ https://youtu.be/rAdgTpLf7mc
    easy to reach and move them to the place where your group is
 
 
-# Molten Furnace (22)
-### 1. follow the drill machine
-1. whenever you hit the "water walls" in the tunnel take the side passage and
-   destroy the vents to remove the water wall
-### 2. end of the tunnel
-1. fight mobs
-2. wait on the water wall till it vanishes
-### 3. cross the lava or go around it
-### 4. final boss
-1. dodge the red circles
-2. kill the mobs
-3. hit the metal thingy in the middle whenever possible 
-4. jump over the shock waves
-5. evade the fire tornadoes
-    * constantly turn your camera to watch them
-6. boss reveals himself at the end
-    * he will occasionally teleport around the room
-
 # Nightmare (23)
 ### 1. kill mobs until you reach the first boss
 ### 2. first boss
@@ -260,3 +368,67 @@ https://youtu.be/rAdgTpLf7mc
 6. acid trip at around 13 %
     1. top down camera angle to see the arrows on the ground
     2. dodge the mobs
+
+# Shattered Observatory (24)
+### 1. first boss
+1. red is bad
+2. fight him until he is invulnerable
+3. follow the arrows
+    1. jump from platform to platform
+    2. kill the adds
+    3. adds try to push you off the platform
+        * put your back to the wall or use stability
+    4. finally you get back to the middle
+4. keep the orb out of the fight
+    1. periodically hit the orb to knock it away from the arena
+    2. or attack it with the ranger pet
+### 2. jump into the cut scene
+### 3. follow the NPC
+### 4. take a left turn when the NPC opens the portal
+* special action key:
+    * stun break
+    * super jump
+    * does CC damage
+### 5. kill mobs and jump up
+### 6. marble
+* stay in the white circles to keep it airborne
+* few people will need to leap onto the higher platforms via their special
+  action key
+### 7. at the end the orb opens a gate to the next area
+### 8. immediately use special action key to get to the next platform
+* kill the mob
+### 9. big jump
+1. jump with space bar normally
+2. then use the special action key (while you are in the air)
+### 10. second boss
+1. kill any adds first (they hurt)
+2. if you get a skull on your head run into the small bubble to contain the
+   explosion
+    * otherwise you kill everyone :3
+    * the others need to stay out of the bubble
+3. when she splits use crowd control to kill the copies
+    * special action key is also a CC
+4. she summons a marble
+    * someone needs to dedicate themselves to bouncing it
+    * the special action key resets every time the marble hits you
+        * use can use it between every marble bounce
+5. dodge roll when she disappears and reappears
+### 11. follow the path and NPC to the final boss
+### 12. final boss
+1. he summons orbs that tether to people
+    * those people need to run to the pillars and drag the orbs with them to
+      destroy the pillars
+    * usually people go clockwise
+    * don't hit the orbs if these people don't need help
+    * if they need help, you can hit the orbs to knock them away from you
+2. if boss has an eye above his head
+    * look away
+    * if you get CC'd, use your special action key to break it
+3. red circles are bad (as usually)
+4. red skull over head --> run to containment bubble
+5. boss disappears
+    * kill small adds first
+    * when you kill the big adds it starts the next phase with the small adds
+      still standing there
+6. (on higher difficulties sections of the floors will also drop from under
+    you; doesn't happen at T1)
