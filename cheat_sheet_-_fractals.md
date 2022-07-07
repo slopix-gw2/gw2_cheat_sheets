@@ -8,7 +8,7 @@ https://youtu.be/rAdgTpLf7mc by Mukluk and the videos by CommonTate Guides
     [x] Uncategorized (2)
     [x] Snowblind (3)
     [x] Urban Battleground (4)
-    [ ] Swampland (5) (17)
+    [x] Swampland (5) (17)
     [ ] Cliffside (6) (21)
     [ ] Aquatic Ruins (7)
     [ ] Underground Facility (8)
@@ -132,6 +132,26 @@ https://youtu.be/rAdgTpLf7mc by Mukluk and the videos by CommonTate Guides
     * boss summons adds
     * biggest attack does damage in a line
         * don't stand behind an ally
+
+
+# Swampland (5) (17)
+### 1. first large room
+1. caution: there are bear traps and tripwires
+    * don't bother to try to clear them because they respawn
+2. three wisp clefts spawn
+    * bring the three wisps to the wisp clefts
+    * once you've picked up the first wisp a timer starts
+        * do a countdown in chat
+    * turn in all the wisps before the timer runs out to open the door
+### 2. kill your way to the final boss
+### 3. final boss
+1. pick up the wisp and plug it into a wisp cleft to start the fight
+2. enemies can only be hurt when they are in the green circles
+    * bait the into the green circles
+    * the green circles will move
+3. at 20 %, he will spawn four wisps around the room
+    * everyone needs to grab a wisp and carry it to the nearest cleft
+4. kill the boss
 
 
 # Molten Furnace (9) (22)
