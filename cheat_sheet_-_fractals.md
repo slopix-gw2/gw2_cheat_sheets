@@ -10,8 +10,8 @@ https://youtu.be/rAdgTpLf7mc by Mukluk and the videos by CommonTate Guides
     [x] Urban Battleground (4)
     [x] Swampland (5) (17)
     [ ] Cliffside (6) (21)
-    [ ] Aquatic Ruins (7)
-    [ ] Underground Facility (8)
+    [x] Aquatic Ruins (7)
+    [x] Underground Facility (8)
     [x] Molten Furnace (9) (22)
     [ ] Molten Boss (10)
     [x] Deepstone (11)
@@ -153,6 +153,74 @@ https://youtu.be/rAdgTpLf7mc by Mukluk and the videos by CommonTate Guides
     * everyone needs to grab a wisp and carry it to the nearest cleft
 4. kill the boss
 
+
+# Aquatic Ruins (7)
+### 1. two versions --> different middle parts
+### 2. swim towards the map markers
+* kill the mobs
+* free all prisoners
+### 3. swim into passage
+* Dolphin version
+    1. read your abilities
+    2. swim towards those swirly looking things
+    3. make your way to the map marker
+    4. use stealth skill when necessary
+* Darkness path version
+    1. always pick up the luminous plants
+        * you die rapidly in the darkness with no light
+    2. you can use dodge rolls for a boost of speed
+    3. make you way from plant to plant and kill what is necessary
+### 3. jellyfish boss
+1. spins to pull you in
+2. hit the key with the broken thingy if the boss grabs you
+3. gets invulnerable three times
+    * adds spawn --> kill them
+4. bubbles carry you to the ceiling
+5. electric cages hurt
+
+
+# Underground Facility (8)
+### 1. drop down and run up the ramp 
+### 2. send one person up to the path on the left
+* has to stand on a button to open the door
+* go through the door
+### 3. one person has to go up the ramp to the right
+* has to stand on a button to open both doors
+* the first door guy know can now catch up to the group
+* enter the room
+### 4. room
+* stand on the two buttons to open the door for the second door guy and to
+  reveal the console
+* one guy has to interact with the console while two guys stand on the two
+  buttons
+* the remaining to people are guarding the control panel person
+* the door opens once the panel is finished
+### 5. go up the ramp and the path splits (= two versions of the fractal)
+* if the path goes to the left
+    1. pick up the laser cutters
+    2. go to the door while taking 0 damage
+        * the laser cutter breaks if you get damage
+    3. cut open the big door at the end
+    4. repeat until finished
+* if the path goes to the right
+    1. pick up bombs
+    2. run through the smoke to stealth
+    3. run up the hallway and 
+        * avoid the circles
+        * the straight lines are okay
+    4. put the bombs into the pipe
+    5. hit the detonator once you have 9 bombs in the pipe
+### 6. kill the guy in the next room
+* his car will break the wall
+### 7. run through the hallway
+* you don't have to kill the mobs
+### 8. follow the left wall up
+### 9. final boss
+* if you get the purple marker lure him underneath the lava buckets
+    * someone else has to hit the button to dump the lava on the boss
+    * do damage
+    * CC the boss when possible
+* when the lava buff wears off get him to the next bucket
 
 # Molten Furnace (9) (22)
 ### 1. follow the drill machine
@@ -427,7 +495,6 @@ https://youtu.be/rAdgTpLf7mc by Mukluk and the videos by CommonTate Guides
     * otherwise you kill everyone :3
     * the others need to stay out of the bubble
 3. when she splits use crowd control to kill the copies
-    * special action key is also a CC
 4. she summons a marble
     * someone needs to dedicate themselves to bouncing it
     * the special action key resets every time the marble hits you
