@@ -20,7 +20,7 @@ https://youtu.be/rAdgTpLf7mc by Mukluk and the videos by CommonTate Guides
     [x] Aetherblade (14)
     [x] Thaumanova Reactor (15)
     [ ] Twilight Oasis (16)
-    [ ] Captain Mai Trin Boss (18)
+    [x] Captain Mai Trin Boss (18)
     [x] Solid Ocean (20)
     [x] Nightmare (23)
     [x] Shattered Observatory (24)
@@ -401,6 +401,22 @@ https://youtu.be/rAdgTpLf7mc by Mukluk and the videos by CommonTate Guides
     * move away from the boss
     * melees can't attack if you destroy all the tiles around him
     * the tiles come back slowly
+
+
+# Captain Mai Trin Boss (18)
+### 1. fight one group of mobs
+### 2. teleport into the final boss fight
+### 3. final boss
+1. stand near the boss
+    * she has to hit herself with the fancy red circle to remove her
+      shield that makes her invulnerable
+    * once its gone --> DPS!
+2. move away if you get a red circle
+3. Captain runs away
+    * kill adds
+    * do damage on Horrik
+4. Horrik gets shield and Captain returns with shield
+5. repeat till everything is dead
 
 
 # Solid Ocean (20)
